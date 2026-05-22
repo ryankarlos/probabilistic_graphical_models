@@ -5,7 +5,7 @@ networkx==2.5.1
 iteration_utilities==0.11.0
 hmmlearn==0.2.6
 pomegranate==0.14.5
-prefect==0.15.7
+prefect==3.6.28.dev2
 quandl==3.6.2
 matplotlib
 mplfinance
